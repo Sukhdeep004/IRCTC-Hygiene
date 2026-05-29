@@ -151,9 +151,10 @@ This system is designed to track and improve food hygiene across railway caterin
 
 ## 📜 License
 
-This repository does not include an open-source license. Add a `LICENSE` file if you wish to share it publicly.
+Free to use and modify for personal or commercial projects.
 
 ## 👥 Capstone Project Members 
+
 * **Sukhdeep Singh** 
 * **Sidharth Singh** 
 * **Sanchit** 
