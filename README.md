@@ -158,6 +158,5 @@ This repository does not include an open-source license. Add a `LICENSE` file if
 * **Sidharth Singh** 
 * **Sanchit** 
 * **Naseem Akhtar** 
-* **Ravi Kumar Kushwaha** 
 
 **Project Mentor:** Mr. Aabid Mushtaq Najar, Assistant Professor (School of Computer Applications, Lovely Professional University)
